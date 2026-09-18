@@ -78,8 +78,7 @@ flowchart LR
 ## 📈 Активность
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alherc&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="70%"/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alherc&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=2c5364&point=ffffff&area=true" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=alherc&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="70%"/>
 </p>
 
 <p align="center">
